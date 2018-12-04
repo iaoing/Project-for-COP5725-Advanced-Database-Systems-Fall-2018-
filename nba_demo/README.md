@@ -2,7 +2,7 @@
 
 #### Bing Jiao     bj18c@my.fsu.edu
 
-#### core code
+#### source code
 
 
 1. ./buildtvp.cpp: the main code for building index scheme:
@@ -12,6 +12,10 @@
   	- CT (Compact Tree) is the class for building the compact tree for a tree-basted dataset
 
 2. ./core.cpp: the main code for building a index for nba-datset
+
+3. ./mb_tree.cpp: mulit-branch tree for this project
+
+4. ./debuf_log.h: write debug information to strerr for debug. You can use it just `include` it and then `LOG(SOME_INFO)`, and then `./core_tets 2>err.log` to flush the strerr to a log file.
 
 
 
