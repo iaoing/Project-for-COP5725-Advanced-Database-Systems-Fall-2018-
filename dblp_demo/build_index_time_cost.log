@@ -1,0 +1,7990 @@
+[core.cpp] [0429] [build_index] 
+----> 
+[0] of [3067808] --> [DBLP]
+
+[core.cpp] [0327] [build_tvp] 
+----> 4320912345 [DBLP] is not a keyword for build tvp
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.000006 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[1] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.363503 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.363512 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[2] of [3067808] --> [A Route Recommender System Based on the User's Visit Duration at Sightseeing Locations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171434 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[3] of [3067808] --> [Daisuke Kitayama]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Daisuke Kitayama], size: [4], build time: [8.753735 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.753743 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[4] of [3067808] --> [Keisuke Ozu]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180526 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[5] of [3067808] --> [Shinsuke Nakajima]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Shinsuke Nakajima], size: [8], build time: [19.424959 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [19.424968 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[6] of [3067808] --> [Kazutoshi Sumiya]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Kazutoshi Sumiya], size: [6], build time: [13.961733 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.961743 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[7] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.346958 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.346966 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[8] of [3067808] --> [Application of Detecting Blinks for Communication Support Tool.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173447 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[9] of [3067808] --> [Ippei Torii]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Ippei Torii], size: [12], build time: [29.890956 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [29.890965 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[10] of [3067808] --> [Kaoruko Ohtani]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Kaoruko Ohtani], size: [3], build time: [5.967869 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.967877 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[11] of [3067808] --> [Shunki Takami]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Shunki Takami], size: [4], build time: [8.551754 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.551762 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[12] of [3067808] --> [Naohiro Ishii]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [39]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Naohiro Ishii], size: [39], build time: [102.046951 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [102.046961 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[13] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.345152 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.345160 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[14] of [3067808] --> [A Procedure for the Development of Mobile Applications Software.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180479 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[15] of [3067808] --> [Byeongdo Kang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.178024 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[16] of [3067808] --> [Jongseok Lee]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jongseok Lee], size: [4], build time: [8.381205 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.381213 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[17] of [3067808] --> [Jonathan Kissinger]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190994 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[18] of [3067808] --> [Roger Y. Lee]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [19]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Roger Y. Lee], size: [19], build time: [49.714595 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [49.714604 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[19] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.332318 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.332327 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[20] of [3067808] --> [Does a Code Review Tool Evolve as the Developer Intended?]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194696 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[21] of [3067808] --> [Osamu Mizuno]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [22]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Osamu Mizuno], size: [22], build time: [56.251714 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [56.251724 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[22] of [3067808] --> [Junwei Liang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Junwei Liang], size: [4], build time: [8.468284 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.468293 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[23] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [126.930061 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [126.930070 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[24] of [3067808] --> [Comparing Two Discriminant Probabilistic Interestingness Measures for Association Rules.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.195141 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[25] of [3067808] --> [Isra&euml;l-C&eacute;sar Lerman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Isra&euml;l-C&eacute;sar Lerman], size: [5], build time: [11.161031 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.161041 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[26] of [3067808] --> [Sylvie Guillaume]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Sylvie Guillaume], size: [17], build time: [42.611716 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [42.611725 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[27] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.308578 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.308588 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[28] of [3067808] --> [Design Pattern for Self-adaptive RTE Systems Monitoring.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174162 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[29] of [3067808] --> [Mouna Ben Said]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169802 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[30] of [3067808] --> [Yessine Hadj Kacem]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [10]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Yessine Hadj Kacem], size: [10], build time: [24.605564 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [24.605573 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[31] of [3067808] --> [Micka&euml;l Kerboeuf]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Micka&euml;l Kerboeuf], size: [8], build time: [19.419057 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [19.419066 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[32] of [3067808] --> [Nader Ben Amor]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Nader Ben Amor], size: [5], build time: [11.276567 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.276577 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[33] of [3067808] --> [Mohamed Abid]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [37]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mohamed Abid], size: [37], build time: [96.765121 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [96.765129 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[34] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.430876 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.430884 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[35] of [3067808] --> [Automatic Matching on Fracture Surface of Quarried Stone Using the Features of Plug-and-Feather Holes.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.186197 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[36] of [3067808] --> [Karin Morita]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172889 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[37] of [3067808] --> [Sei Ikeda]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Sei Ikeda], size: [6], build time: [14.274753 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [14.274762 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[38] of [3067808] --> [Kosuke Sato]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [21]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Kosuke Sato], size: [21], build time: [54.159050 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [54.159058 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[39] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [127.243473 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [127.243482 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[40] of [3067808] --> [Methods and Tools for Automatic Construction of Ontologies from Textual Resources: A Framework for Comparison and Its Application.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.178448 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[41] of [3067808] --> [Toader Gherasim]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Toader Gherasim], size: [3], build time: [5.846118 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.846126 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[42] of [3067808] --> [Mounira Harzallah]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [19]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mounira Harzallah], size: [19], build time: [48.016103 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [48.016112 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[43] of [3067808] --> [Giuseppe Berio]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [14]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Giuseppe Berio], size: [14], build time: [35.664724 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [35.664733 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[44] of [3067808] --> [Pascale Kuntz]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [27]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Pascale Kuntz], size: [27], build time: [68.638105 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [68.638113 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[45] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [127.102219 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [127.102228 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[46] of [3067808] --> [Ontology-Based Formal Specifications for User-Friendly Geospatial Data Discovery.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179433 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[47] of [3067808] --> [Ammar Mechouche]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Ammar Mechouche], size: [8], build time: [19.128332 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [19.128340 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[48] of [3067808] --> [Nathalie Abadie]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Nathalie Abadie], size: [6], build time: [13.646566 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.646574 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[49] of [3067808] --> [Emeric Prouteau]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Emeric Prouteau], size: [2], build time: [3.184959 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.184968 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[50] of [3067808] --> [S&eacute;bastien Musti&egrave;re]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [S&eacute;bastien Musti&egrave;re], size: [6], build time: [13.709997 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.710006 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[51] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.303230 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.303238 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[52] of [3067808] --> [Preliminary Evaluation of a Software Security Learning Environment.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.168979 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[53] of [3067808] --> [Atsuo Hazeyama]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [10]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Atsuo Hazeyama], size: [10], build time: [24.646251 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [24.646270 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[54] of [3067808] --> [Masahito Saito]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.185118 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[55] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [126.810744 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [126.810753 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[56] of [3067808] --> [A Bayesian Criterion for Evaluating the Robustness of Classification Rules in Binary Data Sets.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.186570 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[57] of [3067808] --> [Dominique Gay]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Dominique Gay], size: [9], build time: [21.285903 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [21.285913 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[58] of [3067808] --> [Marc Boull&eacute;]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [55]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Marc Boull&eacute;], size: [55], build time: [140.968118 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [140.968127 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[59] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.292755 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.292764 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[60] of [3067808] --> [Object Tracking Method Using PTAMM and Estimated Foreground Regions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180299 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[61] of [3067808] --> [So Hayakawa]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179900 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[62] of [3067808] --> [Shinji Fukui 0001]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [7]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Shinji Fukui 0001], size: [7], build time: [17.036401 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [17.036410 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[63] of [3067808] --> [Yuji Iwahori]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [25]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Yuji Iwahori], size: [25], build time: [65.211698 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [65.211707 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[64] of [3067808] --> [Manas Kamal Bhuyan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Manas Kamal Bhuyan], size: [9], build time: [22.038899 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [22.038907 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[65] of [3067808] --> [Robert J. Woodham]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [15]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Robert J. Woodham], size: [15], build time: [38.335174 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [38.335183 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[66] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.311079 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.311103 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[67] of [3067808] --> [Predicting Access to Healthcare Using Data Mining Techniques.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173588 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[68] of [3067808] --> [Sergey Shishlenin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190676 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[69] of [3067808] --> [Gongzhu Hu]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [23]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Gongzhu Hu], size: [23], build time: [60.130835 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [60.130844 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[70] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [126.958923 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [126.958933 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[71] of [3067808] --> [User Centered Cognitive Maps.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176051 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[72] of [3067808] --> [Lionel Chauvin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Lionel Chauvin], size: [2], build time: [3.194971 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.194980 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[73] of [3067808] --> [David Genest]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [16]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [David Genest], size: [16], build time: [39.801644 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [39.801652 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[74] of [3067808] --> [Aymeric Le Dorze]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Aymeric Le Dorze], size: [6], build time: [13.424461 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.424470 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[75] of [3067808] --> [St&eacute;phane Loiseau]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [23]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [St&eacute;phane Loiseau], size: [23], build time: [58.535575 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [58.535584 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[76] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [126.902554 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [126.902563 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[77] of [3067808] --> [Summarizing and Querying Logs of OLAP Queries.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174107 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[78] of [3067808] --> [Julien Aligon]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Julien Aligon], size: [6], build time: [13.976880 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.976889 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[79] of [3067808] --> [Patrick Marcel]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [23]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Patrick Marcel], size: [23], build time: [60.000948 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [60.000957 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[80] of [3067808] --> [Elsa Negre]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [24]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Elsa Negre], size: [24], build time: [62.367795 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [62.367804 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[81] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [126.944579 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [126.944587 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[82] of [3067808] --> [Mining Sequential Patterns: A Context-Aware Approach.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172723 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[83] of [3067808] --> [Julien Rabatel]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Julien Rabatel], size: [5], build time: [11.039976 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.039985 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[84] of [3067808] --> [Sandra Bringay]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [38]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Sandra Bringay], size: [38], build time: [98.217613 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [98.217622 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[85] of [3067808] --> [Pascal Poncelet]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [64]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Pascal Poncelet], size: [64], build time: [166.317769 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [166.317779 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[86] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.375913 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.375922 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[87] of [3067808] --> [Performance Impact of New Interface for Non-volatile Memory Storage.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172748 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[88] of [3067808] --> [Shuichi Oikawa]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [13]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Shuichi Oikawa], size: [13], build time: [32.584270 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [32.584278 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[89] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [127.034454 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [127.034463 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[90] of [3067808] --> [A New Way for Hierarchical and Topological Clustering.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180509 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[91] of [3067808] --> [Hanane Azzag]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [21]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Hanane Azzag], size: [21], build time: [52.990358 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [52.990367 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[92] of [3067808] --> [Mustapha Lebbah]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [33]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mustapha Lebbah], size: [33], build time: [84.590613 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [84.590623 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[93] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.353931 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.353940 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[94] of [3067808] --> [Predicting Fault-Prone Modules by Word Occurrence in Identifiers.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.185130 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[95] of [3067808] --> [Naoki Kawashima]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.193276 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[96] of [3067808] --> [Osamu Mizuno]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [22]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Osamu Mizuno], size: [22], build time: [56.322068 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [56.322077 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[97] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [127.007394 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [127.007404 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[98] of [3067808] --> [A Complete Life-Cycle for the Semantic Enrichment of Folksonomies.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.191447 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[99] of [3067808] --> [Freddy Limpens]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Freddy Limpens], size: [5], build time: [10.897819 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.897827 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[100] of [3067808] --> [Fabien Gandon]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [48]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Fabien Gandon], size: [48], build time: [125.427189 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [125.427197 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[101] of [3067808] --> [Michel Buffa]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [18]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Michel Buffa], size: [18], build time: [45.015997 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [45.016005 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[102] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.365721 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.365729 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[103] of [3067808] --> [Changing the Software Engineering Education: A Report from Current Situation in Mexico.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180193 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[104] of [3067808] --> [Ivan A. Garcia]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179987 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[105] of [3067808] --> [Carla L. Pacheco]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173702 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[106] of [3067808] --> [Jos&eacute; Antonio Calvo-Manzano]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jos&eacute; Antonio Calvo-Manzano], size: [4], build time: [8.784231 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.784240 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[107] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.341161 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.341169 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[108] of [3067808] --> [The Influence of Alias and References Escape on Java Program Analysis.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175232 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[109] of [3067808] --> [Shengbo Chen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Shengbo Chen], size: [5], build time: [11.324466 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.324473 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[110] of [3067808] --> [Dashen Sun]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174278 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[111] of [3067808] --> [Huaikou Miao]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [13]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Huaikou Miao], size: [13], build time: [33.148097 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [33.148107 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[112] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.345668 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.345676 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[113] of [3067808] --> [Optimized Test Case Generation Based on Operational Profiles with Fault-Proneness Information.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169972 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[114] of [3067808] --> [Tomohiko Takagi]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Tomohiko Takagi], size: [4], build time: [8.600365 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.600372 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[115] of [3067808] --> [Mutlu Beyazit]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mutlu Beyazit], size: [2], build time: [3.349827 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.349835 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[116] of [3067808] --> [EGC (best of volume)]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [50]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [EGC (best of volume)], size: [50], build time: [127.010193 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [127.010203 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[117] of [3067808] --> [Comparison of Proximity Measures: A Topological Approach.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175371 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[118] of [3067808] --> [Djamel Abdelkader Zighed]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Djamel Abdelkader Zighed], size: [8], build time: [18.835072 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.835082 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[119] of [3067808] --> [Rafik Abdesselam]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Rafik Abdesselam], size: [5], build time: [10.946673 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.946682 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[120] of [3067808] --> [Ahmed Bounekkar]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Ahmed Bounekkar], size: [2], build time: [3.213266 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.213274 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[121] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.336495 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.336519 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[122] of [3067808] --> [The Relationship Between Conversation Skill and Feeling of Load on Youth in Communicate with Elderly Persons Using Video Image and Photographs.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173385 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[123] of [3067808] --> [Miyuki Iwamoto]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.178715 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[124] of [3067808] --> [Noriaki Kuwahara]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [19]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Noriaki Kuwahara], size: [19], build time: [49.200677 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [49.200686 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[125] of [3067808] --> [Kazunari Morimoto]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Kazunari Morimoto], size: [12], build time: [30.369611 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [30.369621 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[126] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.486048 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.486057 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[127] of [3067808] --> [Analysis of Mouth Shape Deformation Rate for Generation of Japanese Utterance Images Automatically.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.192490 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[128] of [3067808] --> [Tsuyoshi Miyazaki 0001]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Tsuyoshi Miyazaki 0001], size: [2], build time: [3.323253 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.323261 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[129] of [3067808] --> [Toyoshiro Nakashima]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Toyoshiro Nakashima], size: [5], build time: [11.261386 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.261396 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[130] of [3067808] --> [Software Engineering Research, Management and Applications]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Software Engineering Research, Management and Applications], size: [17], build time: [41.461077 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [41.461085 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[131] of [3067808] --> [Expression Strength for the Emotional Scene Detection from Lifelog Videos.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.186780 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[132] of [3067808] --> [Atsushi Morikuni]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Atsushi Morikuni], size: [2], build time: [3.330947 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.330955 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[133] of [3067808] --> [Hiroki Nomiya]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [26]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Hiroki Nomiya], size: [26], build time: [67.304293 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [67.304301 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[134] of [3067808] --> [Teruhisa Hochin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [31]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Teruhisa Hochin], size: [31], build time: [80.818221 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [80.818237 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[135] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.703806 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.703813 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[136] of [3067808] --> [Algebraic computation for the masses.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171455 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[137] of [3067808] --> [Joel Moses]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Joel Moses], size: [2], build time: [3.385653 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.385659 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[138] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.230735 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.230744 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[139] of [3067808] --> [Parallel Polynomial Computations by Recursive Processes.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180604 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[140] of [3067808] --> [Dario Bini]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Dario Bini], size: [4], build time: [8.708505 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.708513 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[141] of [3067808] --> [Victor Y. Pan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [10]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Victor Y. Pan], size: [10], build time: [24.174038 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [24.174047 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[142] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.301907 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.301917 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[143] of [3067808] --> [An Analysis of the Subresultant Algorithm Over an Algebraic Number Field.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179527 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[144] of [3067808] --> [Lars Langemyr]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Lars Langemyr], size: [2], build time: [3.270791 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.270799 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[145] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.438991 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.439014 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[146] of [3067808] --> [Parallel sparse polynomial multiplication on modern hardware architectures.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190157 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[147] of [3067808] --> [Francesco Biscani]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179038 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[148] of [3067808] --> [SYMSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSAC], size: [5], build time: [10.809895 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.809903 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[149] of [3067808] --> [Applications of a software interconnection system in mathematical problem solving environments.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171647 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[150] of [3067808] --> [James M. Purtilo]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [James M. Purtilo], size: [9], build time: [22.275895 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [22.275904 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[151] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.454608 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.454617 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[152] of [3067808] --> [On computing nearest singular hankel matrices.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.168922 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[153] of [3067808] --> [Markus A. Hitz]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181668 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[154] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [402.138178 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [402.138188 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[155] of [3067808] --> [Computing rational solutions of linear matrix inequalities.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175573 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[156] of [3067808] --> [Qingdong Guo]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172033 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[157] of [3067808] --> [Mohab Safey El Din]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182967 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[158] of [3067808] --> [Lihong Zhi]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Lihong Zhi], size: [4], build time: [8.313267 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.313275 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[159] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.370316 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.370325 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[160] of [3067808] --> [Finding hyperexponential solutions of linear ODEs by numerical evaluation.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181009 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[161] of [3067808] --> [Fredrik Johansson 0001]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.177780 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[162] of [3067808] --> [Manuel Kauers]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Manuel Kauers], size: [4], build time: [8.427346 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.427355 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[163] of [3067808] --> [Marc Mezzarobba]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172383 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[164] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.268668 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.268678 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[165] of [3067808] --> [Parallel sparse polynomial multiplication using heaps.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179854 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[166] of [3067808] --> [Michael B. Monagan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Michael B. Monagan], size: [3], build time: [5.853237 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.853245 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[167] of [3067808] --> [Roman Pearce]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175144 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[168] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.138151 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.138160 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[169] of [3067808] --> [Rational Function Decomposition.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.177905 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[170] of [3067808] --> [Richard Zippel]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.195402 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[171] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.548710 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.548720 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[172] of [3067808] --> [Twisting q-holonomic sequences by complex roots of unity.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173943 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[173] of [3067808] --> [Stavros Garoufalidis]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176511 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[174] of [3067808] --> [Christoph Koutschan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176553 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[175] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.355111 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.355121 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[176] of [3067808] --> [Implementation techniques for fast polynomial arithmetic in a high-level programming environment.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174262 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[177] of [3067808] --> [Akpodigha Filatei]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171206 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[178] of [3067808] --> [Xin Li 0009]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Xin Li 0009], size: [2], build time: [3.235210 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.235219 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[179] of [3067808] --> [Marc Moreno Maza]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Marc Moreno Maza], size: [11], build time: [26.777038 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [26.777046 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[180] of [3067808] --> [&Eacute;ric Schost]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [&Eacute;ric Schost], size: [3], build time: [5.886556 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.886570 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[181] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.330745 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.330754 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[182] of [3067808] --> [Optimal descriptions of orbit spaces and strata of finite groups.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194556 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[183] of [3067808] --> [Thomas Bayer]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Thomas Bayer], size: [6], build time: [14.216131 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [14.216139 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[184] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.073596 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.073606 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[185] of [3067808] --> [Computing a structured Gr&ouml;bner basis approximately.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.185484 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[186] of [3067808] --> [Kosaku Nagasaka]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Kosaku Nagasaka], size: [2], build time: [3.393653 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.393662 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[187] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.100257 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.100266 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[188] of [3067808] --> [A speed-up of the algorithm for computing comprehensive Gr&ouml;bner systems.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.204066 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[189] of [3067808] --> [Katsusuke Nabeshima]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Katsusuke Nabeshima], size: [3], build time: [5.932381 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.932389 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[190] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.970512 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.970535 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[191] of [3067808] --> [An Application of IRENA to Systems of Nonlinear Equations Arising in Equilibrium Flows in Networks..]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171923 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[192] of [3067808] --> [G. Keady]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190498 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[193] of [3067808] --> [M. G. Richardson]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174089 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[194] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.947276 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.947284 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[195] of [3067808] --> [Rational Points on the Unit Sphere: Approximation Complexity and Practical Constructions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176919 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[196] of [3067808] --> [Daniel Bahrdt]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.186809 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[197] of [3067808] --> [Martin P. Seybold]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.177308 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[198] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.884694 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.884703 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[199] of [3067808] --> [An Algorithm for Computing the Formal Solutions of Differential Systems in the Neighborhood of an Irregular Singular Point.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.196993 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[200] of [3067808] --> [Guoting Chen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.177200 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[201] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.077760 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.077769 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[202] of [3067808] --> [Searching Techniques for Integral Tables.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.196029 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[203] of [3067808] --> [T. H. Einwohner]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.191382 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[204] of [3067808] --> [Richard J. Fateman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Richard J. Fateman], size: [4], build time: [8.254898 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.254906 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[205] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.971777 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.971786 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[206] of [3067808] --> [Toric border basis.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.193768 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[207] of [3067808] --> [Bernard Mourrain]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Bernard Mourrain], size: [4], build time: [8.669929 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.669937 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[208] of [3067808] --> [Philippe Tr&eacute;buchet]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181114 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[209] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.438613 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.438622 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[210] of [3067808] --> [Real root isolation for tame elementary functions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.193361 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[211] of [3067808] --> [Adam W. Strzebonski]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Adam W. Strzebonski], size: [5], build time: [11.053962 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.053970 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[212] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.388127 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.388150 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[213] of [3067808] --> [Symbolic summation with radical expressions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173324 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[214] of [3067808] --> [Manuel Kauers]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Manuel Kauers], size: [4], build time: [8.354290 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.354298 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[215] of [3067808] --> [Carsten Schneider]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Carsten Schneider], size: [2], build time: [3.131318 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.131325 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[216] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.002890 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.002899 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[217] of [3067808] --> [Parallel Computations with Toeplitz-like and Hankel-like Matrices.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.191966 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[218] of [3067808] --> [Dario Bini]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Dario Bini], size: [4], build time: [8.685722 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.685729 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[219] of [3067808] --> [Victor Y. Pan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [10]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Victor Y. Pan], size: [10], build time: [24.110449 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [24.110458 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[220] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.931476 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.931485 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[221] of [3067808] --> [Integration of the Signum, Piecewise and Related Functions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180812 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[222] of [3067808] --> [David J. Jeffrey]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [David J. Jeffrey], size: [5], build time: [10.860026 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.860035 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[223] of [3067808] --> [George Labahn]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [George Labahn], size: [4], build time: [8.231583 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.231591 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[224] of [3067808] --> [Martin von Mohrenschildt]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Martin von Mohrenschildt], size: [2], build time: [3.386964 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.386972 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[225] of [3067808] --> [Albert D. Rich]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Albert D. Rich], size: [2], build time: [3.169340 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.169348 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[226] of [3067808] --> [SYMSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSAC], size: [5], build time: [10.773400 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.773408 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[227] of [3067808] --> [Investigating the structure of a Lie algebra.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.186528 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[228] of [3067808] --> [D. W. Rand]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.177933 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[229] of [3067808] --> [P. Winternitz]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190600 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[230] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.590446 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.590454 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[231] of [3067808] --> [Algorithms for central extensions of Lie algebras.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180866 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[232] of [3067808] --> [Robert E. Beck]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Robert E. Beck], size: [3], build time: [6.050903 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [6.050911 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[233] of [3067808] --> [Bernard Kolman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176844 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[234] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.039282 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.039290 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[235] of [3067808] --> [Gr&ouml;bner-free normal forms for boolean polynomials.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.203404 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[236] of [3067808] --> [Michael Brickenstein]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.170534 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[237] of [3067808] --> [Alexander Dreyer]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Alexander Dreyer], size: [5], build time: [10.979898 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.979907 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[238] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.950251 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.950261 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[239] of [3067808] --> [Decomposition of differential polynomials with constant coefficients.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169189 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[240] of [3067808] --> [Xiao-Shan Gao]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Xiao-Shan Gao], size: [11], build time: [27.349930 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [27.349964 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[241] of [3067808] --> [Mingbo Zhang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mingbo Zhang], size: [6], build time: [13.815049 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.815058 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[242] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.004083 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.004091 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[243] of [3067808] --> [Power series, Bieberbach conjecture and the de Branges and Weinstein functions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.170964 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[244] of [3067808] --> [Wolfram Koepf]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174421 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[245] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.886590 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.886599 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[246] of [3067808] --> [A generalized Graeffe's iteration for evaluating polynomials and rational functions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173468 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[247] of [3067808] --> [Luca Gemignani]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172739 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[248] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.915168 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.915191 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[249] of [3067808] --> [Fast computation of common left multiples of linear ordinary differential operators.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.186045 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[250] of [3067808] --> [Alin Bostan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Alin Bostan], size: [2], build time: [3.284907 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.284916 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[251] of [3067808] --> [Fr&eacute;d&eacute;ric Chyzak]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Fr&eacute;d&eacute;ric Chyzak], size: [3], build time: [5.810726 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.810735 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[252] of [3067808] --> [Bruno Salvy]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Bruno Salvy], size: [4], build time: [8.451297 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.451305 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[253] of [3067808] --> [Ziming Li]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Ziming Li], size: [2], build time: [3.157401 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.157410 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[254] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.002482 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.002491 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[255] of [3067808] --> [Mixed Symbolic-Numeric Solution of Symmetrical Nonlinear Systems.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.184917 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[256] of [3067808] --> [Karin Gatermann]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175376 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[257] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.944655 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.944664 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[258] of [3067808] --> [On a parallel Lehmer-Euclid GCD algorithm.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173715 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[259] of [3067808] --> [Sidi Mohamed Sedjelmaci]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Sidi Mohamed Sedjelmaci], size: [2], build time: [3.143340 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.143349 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[260] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.592969 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.592978 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[261] of [3067808] --> [A draft description of the group theory language Cayley.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173407 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[262] of [3067808] --> [John J. Cannon]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173059 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[263] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.631310 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.631334 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[264] of [3067808] --> [Symbolic Computation for Witt Rings.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179814 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[265] of [3067808] --> [Algimantas Juozapavicius]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171341 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[266] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.861907 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.861917 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[267] of [3067808] --> [Schur partition for symmetric ternary forms and readable proof to inequalities.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171402 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[268] of [3067808] --> [Fangjian Huang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.183878 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[269] of [3067808] --> [Shengli Chen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182229 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[270] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.367957 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.367966 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[271] of [3067808] --> [Multivariate sparse interpolation using randomized Kronecker substitutions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179651 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[272] of [3067808] --> [Andrew Arnold]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Andrew Arnold], size: [4], build time: [8.680533 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.680541 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[273] of [3067808] --> [Daniel S. Roche]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Daniel S. Roche], size: [4], build time: [8.335028 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.335035 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[274] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.259150 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.259159 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[275] of [3067808] --> [MPP: A Framework for Distributed Polynomial Computations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175606 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[276] of [3067808] --> [Olaf Bachmann]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.184511 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[277] of [3067808] --> [Hans Sch&ouml;nemann]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.183008 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[278] of [3067808] --> [Simon Gray]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Simon Gray], size: [2], build time: [3.168486 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.168494 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[279] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.594315 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.594324 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[280] of [3067808] --> [Polynomial real root isolation by differentiation.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169969 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[281] of [3067808] --> [George E. Collins]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [George E. Collins], size: [4], build time: [8.364555 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.364562 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[282] of [3067808] --> [R&uuml;diger Loos]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171181 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[283] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.347349 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.347358 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[284] of [3067808] --> [Further evaluation of Java for symbolic computation.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180145 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[285] of [3067808] --> [Arthur C. Norman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.189195 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[286] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.306079 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.306088 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[287] of [3067808] --> [Symbolic computation in the homogeneous geometric model with clifford algebra.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.192066 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[288] of [3067808] --> [Hongbo Li]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Hongbo Li], size: [8], build time: [18.993310 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.993318 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[289] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.338871 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.338879 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[290] of [3067808] --> [Polynomial root finding using iterated Eigenvalue computation.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.203199 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[291] of [3067808] --> [Steven Fortune]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Steven Fortune], size: [4], build time: [8.691267 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.691275 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[292] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.619129 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.619138 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[293] of [3067808] --> [Canonical representatives for residue classes of a polynomial ideal.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181527 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[294] of [3067808] --> [Markus Lauer]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Markus Lauer], size: [3], build time: [6.085941 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [6.085949 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[295] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.307031 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.307041 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[296] of [3067808] --> [Determinantal formula for the chow form of a toric surface.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171059 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[297] of [3067808] --> [Amit Khetan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180250 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[298] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.261356 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.261364 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[299] of [3067808] --> [Real root isolation for exp-log functions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172898 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[300] of [3067808] --> [Adam W. Strzebonski]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Adam W. Strzebonski], size: [5], build time: [11.022255 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.022264 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[301] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.301883 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.301891 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[302] of [3067808] --> [On the Implementation of a new Algorithm for the Computation of Hyperelliptic Integrals.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172785 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[303] of [3067808] --> [Laurent Bertrand]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175812 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[304] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.376275 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.376284 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[305] of [3067808] --> [Algebraic and Geometric Reasoning Using Dixon Resultants.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173190 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[306] of [3067808] --> [Deepak Kapur]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [20]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Deepak Kapur], size: [20], build time: [51.845954 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [51.845963 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[307] of [3067808] --> [Tushar Saxena]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Tushar Saxena], size: [2], build time: [3.200541 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.200549 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[308] of [3067808] --> [Lu Yang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [14]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Lu Yang], size: [14], build time: [35.461595 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [35.461603 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[309] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.280405 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.280414 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[310] of [3067808] --> [Approximate factorization of multivariate polynomials via differential equations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176774 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[311] of [3067808] --> [Shuhong Gao]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Shuhong Gao], size: [2], build time: [3.335287 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.335295 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[312] of [3067808] --> [Erich Kaltofen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Erich Kaltofen], size: [6], build time: [13.665756 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.665764 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[313] of [3067808] --> [John P. May]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182804 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[314] of [3067808] --> [Zhengfeng Yang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.177701 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[315] of [3067808] --> [Lihong Zhi]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Lihong Zhi], size: [4], build time: [8.240831 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.240839 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[316] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.309624 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.309634 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[317] of [3067808] --> [Fast Polynomial Dispersion Computation and Its Application to Indefinite Summation.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.195052 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[318] of [3067808] --> [Yiu-Kwong Man]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.186628 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[319] of [3067808] --> [Francis J. Wright]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.195714 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[320] of [3067808] --> [SNC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SNC], size: [8], build time: [18.449793 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.449802 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[321] of [3067808] --> [Matched filtering a gravitational wave pulsar signal involving reciprocal gamma functions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.191990 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[322] of [3067808] --> [Marc Eric Normandin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.168173 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[323] of [3067808] --> [Adam Vajda]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.170597 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[324] of [3067808] --> [Sree Ram Valluri]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175035 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[325] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.370912 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.370920 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[326] of [3067808] --> [A Gr&ouml;bner free alternative to solving and a geometric analogue to Cook's thesis.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.189456 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[327] of [3067808] --> [Marc Giusti]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Marc Giusti], size: [2], build time: [3.331792 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.331800 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[328] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.221834 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.221842 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[329] of [3067808] --> [Symbolic summation with single-nested sum extensions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.188780 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[330] of [3067808] --> [Carsten Schneider]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Carsten Schneider], size: [2], build time: [3.145036 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.145044 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[331] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.376360 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.376368 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[332] of [3067808] --> [Algorithms for symbolic/numeric control of affine dynamical systems.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.189497 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[333] of [3067808] --> [Aude Rondepierre]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Aude Rondepierre], size: [2], build time: [3.404556 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.404563 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[334] of [3067808] --> [Jean-Guillaume Dumas]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jean-Guillaume Dumas], size: [9], build time: [21.799085 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [21.799092 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[335] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.277430 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.277440 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[336] of [3067808] --> [Computer Generation of Necessary Integrability Conditions for Polynomial-Nonlinear Evolution Systems.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174588 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[337] of [3067808] --> [Vladimir P. Gerdt]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Vladimir P. Gerdt], size: [8], build time: [18.739493 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.739502 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[338] of [3067808] --> [A. Yu. Zharkov]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.178950 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[339] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.374001 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.374009 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[340] of [3067808] --> [Cylindrical algebraic decomposition using local projections.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180703 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[341] of [3067808] --> [Adam W. Strzebonski]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Adam W. Strzebonski], size: [5], build time: [11.032166 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.032175 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[342] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.097692 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.097702 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[343] of [3067808] --> [Computing Special Powers in Finite Fields (extended abstract).]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173781 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[344] of [3067808] --> [Joachim von zur Gathen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Joachim von zur Gathen], size: [5], build time: [11.376406 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.376414 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[345] of [3067808] --> [Michael N&ouml;cker]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182354 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[346] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.995979 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.995988 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[347] of [3067808] --> [Algebraic invariants and their differential algebras.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.187927 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[348] of [3067808] --> [Evelyne Hubert]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190730 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[349] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.220760 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.220769 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[350] of [3067808] --> [Constructing Small Generating Sets for the Multiplicative Groups of Algebras over Finite Fields.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171339 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[351] of [3067808] --> [Ming-Deh Huang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.170540 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[352] of [3067808] --> [Lian Liu]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Lian Liu], size: [3], build time: [5.953184 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.953193 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[353] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.202646 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.202655 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[354] of [3067808] --> [A Fast, Reliable Algorithm for Calculating Pad&eacute;-Hermite Forms.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.191032 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[355] of [3067808] --> [Stanley Cabay]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Stanley Cabay], size: [2], build time: [3.145793 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.145814 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[356] of [3067808] --> [George Labahn]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [George Labahn], size: [4], build time: [8.240433 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.240441 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[357] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.745580 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.745588 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[358] of [3067808] --> [Triangulations of polytopes and algebraic geometry.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182161 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[359] of [3067808] --> [Francisco Santos]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Francisco Santos], size: [8], build time: [19.307404 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [19.307412 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[360] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.325515 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.325529 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[361] of [3067808] --> [Gr&ouml;bner Basis, Integration and Transcendental Functions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194910 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[362] of [3067808] --> [Nobuki Takayama]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182122 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[363] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.279314 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.279324 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[364] of [3067808] --> [Computation schemes for splitting fields of polynomials.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.189366 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[365] of [3067808] --> [S&eacute;bastien Orange]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175852 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[366] of [3067808] --> [Gu&eacute;na&euml;l Renault]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Gu&eacute;na&euml;l Renault], size: [3], build time: [5.775429 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.775436 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[367] of [3067808] --> [Kazuhiro Yokoyama]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Kazuhiro Yokoyama], size: [6], build time: [13.889531 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.889540 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[368] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.240752 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.240760 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[369] of [3067808] --> [A Survey of the Theorema Project.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181138 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[370] of [3067808] --> [Bruno Buchberger]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Bruno Buchberger], size: [8], build time: [19.185277 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [19.185286 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[371] of [3067808] --> [Tudor Jebelean]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Tudor Jebelean], size: [5], build time: [11.483508 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.483518 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[372] of [3067808] --> [Franz Kriftner]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.183062 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[373] of [3067808] --> [Mircea Marin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mircea Marin], size: [6], build time: [13.708931 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.708939 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[374] of [3067808] --> [Elena Tomuta]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169911 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[375] of [3067808] --> [Daniela Vasaru]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.183280 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[376] of [3067808] --> [SNC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SNC], size: [8], build time: [18.467724 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.467732 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[377] of [3067808] --> [Approximate bivariate factorization: a geometric viewpoint.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173059 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[378] of [3067808] --> [Andr&eacute; Galligo]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Andr&eacute; Galligo], size: [4], build time: [8.416208 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.416216 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[379] of [3067808] --> [Mark van Hoeij]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mark van Hoeij], size: [4], build time: [8.316595 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.316603 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[380] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.582066 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.582075 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[381] of [3067808] --> [Bounds for Orders of Derivatives in Differential Elimination Algorithms.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174189 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[382] of [3067808] --> [Richard Gustavson]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.184635 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[383] of [3067808] --> [Alexey Ovchinnikov]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194957 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[384] of [3067808] --> [Gleb Pogudin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.191772 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[385] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.285972 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.285981 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[386] of [3067808] --> [A term rewriting system for the calculus of moving surfaces.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.197086 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[387] of [3067808] --> [Mark Boady]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179095 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[388] of [3067808] --> [Pavel Grinfeld]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.184688 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[389] of [3067808] --> [Jeremy Johnson]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jeremy Johnson], size: [3], build time: [5.976518 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.976526 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[390] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.423883 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.423893 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[391] of [3067808] --> [Picard--Vessiot extensions for linear functional systems.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169808 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[392] of [3067808] --> [Manuel Bronstein]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174509 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[393] of [3067808] --> [Ziming Li]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Ziming Li], size: [2], build time: [3.162191 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.162197 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[394] of [3067808] --> [Min Wu 0003]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.170076 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[395] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [402.469081 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [402.469091 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[396] of [3067808] --> [An algorithm for the eigenvalue perturbation problem: reduction of a -matrix to a Lidskii matrix.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173605 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[397] of [3067808] --> [Claude-Pierre Jeannerod]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Claude-Pierre Jeannerod], size: [3], build time: [5.737126 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.737135 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[398] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.411137 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.411146 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[399] of [3067808] --> [Symbolic Mathematics System Evaluators (extended abstract).]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.192522 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[400] of [3067808] --> [Richard J. Fateman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Richard J. Fateman], size: [4], build time: [8.319708 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.319716 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[401] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.403501 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.403511 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[402] of [3067808] --> [A Rational Version of Moser's Algorithm.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169088 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[403] of [3067808] --> [Moulay A. Barkatou]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Moulay A. Barkatou], size: [6], build time: [13.501481 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.501490 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[404] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.422530 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.422540 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[405] of [3067808] --> [Implicitization and parametrization of quadratic surfaces with one simple base point.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.198608 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[406] of [3067808] --> [Xuhui Wang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.192081 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[407] of [3067808] --> [Falai Chen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.202188 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[408] of [3067808] --> [Jiansong Deng]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.195194 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[409] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.436120 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.436129 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[410] of [3067808] --> [On computational properties of chains of recurrences.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171572 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[411] of [3067808] --> [Eugene V. Zima]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Eugene V. Zima], size: [3], build time: [6.041455 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [6.041462 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[412] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [402.359732 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [402.359741 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[413] of [3067808] --> [Hilbert's nullstellensatz and an algorithm for proving combinatorial infeasibility.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171169 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[414] of [3067808] --> [Jes&uacute;s A. De Loera]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jes&uacute;s A. De Loera], size: [3], build time: [6.036279 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [6.036286 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[415] of [3067808] --> [Jon Lee 0001]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jon Lee 0001], size: [5], build time: [11.014175 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.014184 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[416] of [3067808] --> [Peter N. Malkin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180273 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[417] of [3067808] --> [Susan Margulies]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.184766 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[418] of [3067808] --> [SNC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SNC], size: [8], build time: [18.458688 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.458697 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[419] of [3067808] --> [The schur aggregation for solving linear systems of equations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180949 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[420] of [3067808] --> [Victor Y. Pan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [10]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Victor Y. Pan], size: [10], build time: [24.139098 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [24.139107 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[421] of [3067808] --> [Brian Murphy]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [17]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Brian Murphy], size: [17], build time: [42.844356 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [42.844366 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[422] of [3067808] --> [Rhys Eric Rosholt]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182652 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[423] of [3067808] --> [M. Tabanjeh]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169536 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[424] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.024532 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.024540 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[425] of [3067808] --> [On Liouvillian Solutions of Homogeneous Linear Differential Equations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.189868 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[426] of [3067808] --> [Felix Ulmer]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.197958 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[427] of [3067808] --> [Jacques Calmet]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jacques Calmet], size: [4], build time: [8.343032 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.343041 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[428] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.342797 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.342807 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[429] of [3067808] --> [Nearly Linear Time Algorithms for Permutation Groups with a Small Base.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190539 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[430] of [3067808] --> [L&aacute;szl&oacute; Babai]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [L&aacute;szl&oacute; Babai], size: [11], build time: [27.221957 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [27.221966 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[431] of [3067808] --> [Gene Cooperman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [15]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Gene Cooperman], size: [15], build time: [37.266053 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [37.266062 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[432] of [3067808] --> [Larry Finkelstein]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Larry Finkelstein], size: [6], build time: [13.999324 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.999332 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[433] of [3067808] --> [&Aacute;kos Seress]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [&Aacute;kos Seress], size: [5], build time: [11.199310 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.199319 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[434] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.279067 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.279075 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[435] of [3067808] --> [Algorithms for Simultaneous Pad&eacute; Approximations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.187987 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[436] of [3067808] --> [Johan Sebastian Rosenkilde]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Johan Sebastian Rosenkilde], size: [2], build time: [3.288976 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.288993 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[437] of [3067808] --> [Arne Storjohann]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Arne Storjohann], size: [3], build time: [5.876169 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.876176 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[438] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.391147 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.391157 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[439] of [3067808] --> [Describing convex semialgebraic sets by linear matrix inequalities.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174174 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[440] of [3067808] --> [Markus Schweighofer]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172381 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[441] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.623464 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.623474 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[442] of [3067808] --> [Some problems about polynomials.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181897 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[443] of [3067808] --> [Maurice Mignotte]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171512 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[444] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.404157 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.404165 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[445] of [3067808] --> [Computational D-module theory with singular, comparison with other systems and two new algorithms.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181118 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[446] of [3067808] --> [Viktor Levandovskyy]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171862 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[447] of [3067808] --> [Jorge Mart&iacute;n-Morales]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169960 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[448] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.584896 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.584905 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[449] of [3067808] --> [On efficient algorithms for computing parametric local cohomology classes associated with semi-quasihomogeneous singularities and standard bases.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176601 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[450] of [3067808] --> [Katsusuke Nabeshima]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Katsusuke Nabeshima], size: [3], build time: [5.951194 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.951201 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[451] of [3067808] --> [Shinichi Tajima]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194355 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[452] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.434904 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.434913 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[453] of [3067808] --> [New complexity bounds for cylindrical decompositions of sub-pfaffian sets.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171807 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[454] of [3067808] --> [Savvas Pericleous]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172250 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[455] of [3067808] --> [Nicolai Vorobjov]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.175921 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[456] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.007699 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.007722 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[457] of [3067808] --> [De Nugis Groebnerialium 4: Zacharias, Spears, M&ouml;ller.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.180474 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[458] of [3067808] --> [Ferdinando Mora]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.185630 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[459] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.430471 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.430481 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[460] of [3067808] --> [The Modulo ]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179373 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[461] of [3067808] --> [Thom Mulders]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179314 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[462] of [3067808] --> [Arne Storjohann]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Arne Storjohann], size: [3], build time: [5.895613 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.895621 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[463] of [3067808] --> [SYMSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSAC], size: [5], build time: [10.834842 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.834850 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[464] of [3067808] --> [Iris: design of an user interface program for symbolic algebra.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182664 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[465] of [3067808] --> [Benton L. Leong]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194392 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[466] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.310832 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.310842 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[467] of [3067808] --> [Further Analysis of Coppersmith's Block Wiedemann Algorithm for the Solution of Sparse Linear Systems (Extended Abstract).]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179099 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[468] of [3067808] --> [Gilles Villard]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.193145 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[469] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.359400 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.359410 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[470] of [3067808] --> [Automatic synthesis of high performance mathematical programs.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179550 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[471] of [3067808] --> [Markus P&uuml;schel]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Markus P&uuml;schel], size: [11], build time: [27.634064 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [27.634074 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[472] of [3067808] --> [SYMSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSAC], size: [5], build time: [10.777681 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.777689 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[473] of [3067808] --> [Computer algebra in the undergraduate mathematics classroom.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179343 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[474] of [3067808] --> [Bruce W. Char]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Bruce W. Char], size: [2], build time: [3.146336 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.146343 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[475] of [3067808] --> [Keith O. Geddes]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176828 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[476] of [3067808] --> [Gaston H. Gonnet]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Gaston H. Gonnet], size: [9], build time: [21.945796 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [21.945805 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[477] of [3067808] --> [B. J. Marshman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181842 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[478] of [3067808] --> [P. J. Ponzo]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.188609 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[479] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.285321 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.285331 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[480] of [3067808] --> [Algorithms for Finding the Structure of Solutions of a System of Linear Partial Differential Equations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.191342 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[481] of [3067808] --> [Toshinori Oaku]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190327 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[482] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.996618 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.996627 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[483] of [3067808] --> [Criteria for Finite Difference Gr&ouml;bner Bases of Normal Binomial Difference Ideals.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.177554 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[484] of [3067808] --> [Yu-Ao Chen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172516 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[485] of [3067808] --> [Xiao-Shan Gao]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Xiao-Shan Gao], size: [11], build time: [27.441206 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [27.441215 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[486] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.311858 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.311867 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[487] of [3067808] --> [Domains and expressions: an interface between two approaches to computer algebra.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173968 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[488] of [3067808] --> [Cosmin E. Oancea]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Cosmin E. Oancea], size: [4], build time: [8.588421 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.588430 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[489] of [3067808] --> [Stephen M. Watt]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Stephen M. Watt], size: [9], build time: [22.003479 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [22.003488 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[490] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.399540 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.399564 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[491] of [3067808] --> [Strong Normalizability for the Combined System of the Typed lambda Calculus and an Arbitrary Convergent Term Rewrite System.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176324 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[492] of [3067808] --> [Mitsuhiro Okada]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mitsuhiro Okada], size: [4], build time: [8.519727 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.519735 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[493] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.394606 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.394615 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[494] of [3067808] --> [Factoring Rational Polynomials over the Complexes.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.200510 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[495] of [3067808] --> [Chandrajit L. Bajaj]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [15]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Chandrajit L. Bajaj], size: [15], build time: [38.117381 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [38.117406 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[496] of [3067808] --> [John F. Canny]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [20]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [John F. Canny], size: [20], build time: [50.627216 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [50.627224 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[497] of [3067808] --> [R. Garrity]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176535 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[498] of [3067808] --> [Joe D. Warren]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Joe D. Warren], size: [6], build time: [14.077515 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [14.077522 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[499] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.438519 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.438528 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[500] of [3067808] --> [Fast algorithms for computing the eigenvalue in the Schoof-Elkies-Atkin algorithm.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.183024 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[501] of [3067808] --> [Pierrick Gaudry]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Pierrick Gaudry], size: [4], build time: [8.424004 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.424014 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[502] of [3067808] --> [Fran&ccedil;ois Morain]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Fran&ccedil;ois Morain], size: [2], build time: [3.261443 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.261451 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[503] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [402.287701 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [402.287710 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[504] of [3067808] --> [Polynomial Real Root Isolation using Approximate Arithmetic.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.187535 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[505] of [3067808] --> [Jeremy R. Johnson]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jeremy R. Johnson], size: [4], build time: [8.287955 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.287962 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[506] of [3067808] --> [Werner Krandick]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Werner Krandick], size: [2], build time: [3.360081 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.360090 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[507] of [3067808] --> [SNC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SNC], size: [8], build time: [18.520133 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.520142 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[508] of [3067808] --> [Companion matrix pencils for hermite interpolants.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.188140 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[509] of [3067808] --> [Dhavide A. Aruliah]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Dhavide A. Aruliah], size: [2], build time: [3.266671 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.266679 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[510] of [3067808] --> [Robert M. Corless]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Robert M. Corless], size: [2], build time: [3.343452 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.343460 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[511] of [3067808] --> [Laureano Gonz&aacute;lez-Vega]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Laureano Gonz&aacute;lez-Vega], size: [4], build time: [8.680894 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.680902 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[512] of [3067808] --> [Azar Shakoori]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176009 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[513] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.460432 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.460441 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[514] of [3067808] --> [Algorithms for recognizing coordinates in two variables over UFD's.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.192164 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[515] of [3067808] --> [Hassan El Houari]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179698 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[516] of [3067808] --> [M'hammed El Kahoui]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173717 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[517] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.118986 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.118996 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[518] of [3067808] --> [On the Genericity of the Modular Polynomial GCD Algorithm.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190770 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[519] of [3067808] --> [Erich Kaltofen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Erich Kaltofen], size: [6], build time: [13.629171 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.629180 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[520] of [3067808] --> [Michael B. Monagan]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Michael B. Monagan], size: [3], build time: [5.806431 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.806439 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[521] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.035676 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.035686 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[522] of [3067808] --> [An Algebra of Properties.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173641 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[523] of [3067808] --> [Trudy Weibel]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194950 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[524] of [3067808] --> [Gaston H. Gonnet]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Gaston H. Gonnet], size: [9], build time: [21.933257 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [21.933266 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[525] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.492329 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.492337 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[526] of [3067808] --> [Fraction-free Computation of Catrix Pad&eacute; Systems.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169722 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[527] of [3067808] --> [Bernhard Beckermann]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Bernhard Beckermann], size: [2], build time: [3.150990 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.150997 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[528] of [3067808] --> [Stanley Cabay]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Stanley Cabay], size: [2], build time: [3.139435 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.139443 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[529] of [3067808] --> [George Labahn]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [George Labahn], size: [4], build time: [8.240904 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.240913 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[530] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.595665 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.595674 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[531] of [3067808] --> [Views on transportability of Lisp and Lisp-based systems.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182152 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[532] of [3067808] --> [Richard J. Fateman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Richard J. Fateman], size: [4], build time: [8.235644 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.235652 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[533] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.986542 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.986551 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[534] of [3067808] --> [Root isolation for bivariate polynomial systems with local generic position method.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.178558 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[535] of [3067808] --> [Jin-San Cheng]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jin-San Cheng], size: [4], build time: [8.389412 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.389420 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[536] of [3067808] --> [Xiao-Shan Gao]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Xiao-Shan Gao], size: [11], build time: [27.381904 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [27.381913 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[537] of [3067808] --> [Jia Li]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [23]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jia Li], size: [23], build time: [58.613890 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [58.613899 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[538] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.266002 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.266011 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[539] of [3067808] --> [Searching for Integrable PDE's by Testing Hirota's Three-Soliton Condition.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.167921 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[540] of [3067808] --> [Jarmo Hietarinta]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.167527 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[541] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [399.983904 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [399.983928 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[542] of [3067808] --> [Gr&ouml;bner bases of ideals invariant under a commutative group: the non-modular case.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.185721 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[543] of [3067808] --> [Jean-Charles Faug&egrave;re]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Jean-Charles Faug&egrave;re], size: [4], build time: [8.405309 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.405316 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[544] of [3067808] --> [Jules Svartz]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190988 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[545] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.599490 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.599500 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[546] of [3067808] --> [Note on probabilistic algorithms in integer and polynomial arithmetic.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169482 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[547] of [3067808] --> [Michael Kaminski]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [7]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Michael Kaminski], size: [7], build time: [16.989951 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [16.989960 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[548] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.069047 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.069057 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[549] of [3067808] --> [Computing the Lie Algebra of the Differential Galois Group of a Linear Differential System.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171734 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[550] of [3067808] --> [Moulay A. Barkatou]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Moulay A. Barkatou], size: [6], build time: [13.398783 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.398791 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[551] of [3067808] --> [Thomas Cluzeau]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Thomas Cluzeau], size: [3], build time: [5.741829 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.741837 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[552] of [3067808] --> [Jacques-Arthur Weil]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.195200 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[553] of [3067808] --> [Lucia Di Vizio]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174077 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[554] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.549620 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.549629 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[555] of [3067808] --> [Contraction of Ore Ideals with Applications.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179381 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[556] of [3067808] --> [Yi Zhang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [89]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Yi Zhang], size: [89], build time: [235.366549 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [235.366558 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[557] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.993778 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.993787 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[558] of [3067808] --> [Symbolic integration at compile time in finite element methods.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.192269 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[559] of [3067808] --> [Karl Rupp]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Karl Rupp], size: [11], build time: [27.106464 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [27.106473 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[560] of [3067808] --> [PASCO@ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [PASCO@ISSAC], size: [2], build time: [3.148350 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.148358 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[561] of [3067808] --> [Multithreaded programming on the GPU: pointers and hints for the computer algebraist.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173186 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[562] of [3067808] --> [Marc Moreno Maza]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Marc Moreno Maza], size: [11], build time: [26.655797 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [26.655806 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[563] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.726225 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.726234 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[564] of [3067808] --> [Projection and Quantifier Elimination Using Non-uniform Cylindrical Algebraic Decomposition.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176947 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[565] of [3067808] --> [Christopher W. Brown]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181332 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[566] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.035632 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.035641 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[567] of [3067808] --> [An Algorithm for the Computation of Normal Forms and Invariant Manifolds.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.168195 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[568] of [3067808] --> [L. Vallier]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [L. Vallier], size: [2], build time: [3.327196 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.327204 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[569] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.144808 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.144818 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[570] of [3067808] --> [The Yang-Baxter Equation and a Systematic Search for Poisson Brackets on Associative Algebras.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179129 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[571] of [3067808] --> [Walter Oevel]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174657 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[572] of [3067808] --> [Klaus Strack]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169848 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[573] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.065903 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.065911 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[574] of [3067808] --> [Polynomial factorization: a success story.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173376 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[575] of [3067808] --> [Erich Kaltofen]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Erich Kaltofen], size: [6], build time: [13.655857 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.655866 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[576] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.978719 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.978728 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[577] of [3067808] --> [Computing Selected Solutions of Polynomial Equations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.170933 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[578] of [3067808] --> [Dinesh Manocha]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [41]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Dinesh Manocha], size: [41], build time: [107.301102 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [107.301111 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[579] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.557564 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.557573 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[580] of [3067808] --> [Change of order for bivariate triangular sets.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.177322 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[581] of [3067808] --> [Cyril Pascal]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.181352 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[582] of [3067808] --> [&Eacute;ric Schost]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [&Eacute;ric Schost], size: [3], build time: [5.831274 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.831282 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[583] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.391708 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.391718 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[584] of [3067808] --> [Fast practical algorithms for the Boolean-product-witness-matrix problem.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.186976 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[585] of [3067808] --> [Anshul Gupta]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [11]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Anshul Gupta], size: [11], build time: [27.509457 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [27.509465 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[586] of [3067808] --> [Pankaj Rohatgi]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Pankaj Rohatgi], size: [8], build time: [18.986719 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.986742 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[587] of [3067808] --> [Ramesh C. Agarwal]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Ramesh C. Agarwal], size: [3], build time: [6.019480 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [6.019488 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[588] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.381816 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.381825 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[589] of [3067808] --> [A reduced form for perturbed matrix polynomials.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.188415 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[590] of [3067808] --> [Claude-Pierre Jeannerod]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Claude-Pierre Jeannerod], size: [3], build time: [5.711474 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.711483 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[591] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.371298 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.371306 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[592] of [3067808] --> [Fast randomized algorithms for the structure of matrix algebras over finite fields (extended abstract).]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.176930 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[593] of [3067808] --> [G&aacute;bor Ivanyos]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [G&aacute;bor Ivanyos], size: [4], build time: [8.488754 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.488761 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[594] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.369924 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.369932 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[595] of [3067808] --> [Near Optimal Subdivision Algorithms for Real Root Isolation.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.178133 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[596] of [3067808] --> [Vikram Sharma 0001]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Vikram Sharma 0001], size: [2], build time: [3.147375 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.147382 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[597] of [3067808] --> [Prashant Batra]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172707 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[598] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.213646 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.213655 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[599] of [3067808] --> [From a Noncomputability Result to new interesting Definitions and Computability Results.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.193311 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[600] of [3067808] --> [Francis Sergeraert]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Francis Sergeraert], size: [2], build time: [3.301256 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.301263 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[601] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [401.749508 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [401.749531 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[602] of [3067808] --> [The Importance of Being Zero.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171190 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[603] of [3067808] --> [Tom&aacute;s Recio]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Tom&aacute;s Recio], size: [2], build time: [3.304782 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.304791 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[604] of [3067808] --> [J. Rafael Sendra]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [J. Rafael Sendra], size: [2], build time: [3.245612 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.245620 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[605] of [3067808] --> [Carlos Villarino]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182057 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[606] of [3067808] --> [SYMSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSAC], size: [5], build time: [10.881829 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.881839 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[607] of [3067808] --> [Formal solutions of linear difference equations: method of Pincherle-Ramis.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.192483 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[608] of [3067808] --> [Jean Della Dora]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.187049 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[609] of [3067808] --> [Evelyne Tournier]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194213 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[610] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.394043 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.394053 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[611] of [3067808] --> [Fraction-free row reduction of matrices of skew polynomials.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.183679 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[612] of [3067808] --> [Bernhard Beckermann]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Bernhard Beckermann], size: [2], build time: [3.161666 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.161675 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[613] of [3067808] --> [Howard Cheng]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Howard Cheng], size: [9], build time: [22.581991 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [22.582001 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[614] of [3067808] --> [George Labahn]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [George Labahn], size: [4], build time: [8.296517 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.296538 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[615] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.406361 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.406370 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[616] of [3067808] --> [Liouvillian solutions of irreducible linear difference equations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173867 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[617] of [3067808] --> [Yongjae Cha]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190770 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[618] of [3067808] --> [Mark van Hoeij]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Mark van Hoeij], size: [4], build time: [8.374056 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.374064 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[619] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.371038 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.371046 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[620] of [3067808] --> [Rankings of Partial Derivatives.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173240 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[621] of [3067808] --> [C. J. Rust]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.192913 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[622] of [3067808] --> [Gregory J. Reid]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Gregory J. Reid], size: [3], build time: [5.839287 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.839296 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[623] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [403.382360 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [403.382368 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[624] of [3067808] --> [Numerical primary decomposition.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.198175 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[625] of [3067808] --> [Anton Leykin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172371 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[626] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [402.745589 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [402.745598 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[627] of [3067808] --> [Computing real solutions of polynomial systems via low-rank moment matrix completion.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.185343 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[628] of [3067808] --> [Yue Ma]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [34]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Yue Ma], size: [34], build time: [89.670599 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [89.670608 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[629] of [3067808] --> [Lihong Zhi]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Lihong Zhi], size: [4], build time: [8.258054 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.258069 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[630] of [3067808] --> [SYMSACC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [12]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [SYMSACC], size: [12], build time: [28.566197 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [28.566205 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[631] of [3067808] --> [Taking advantage of zero entries in the exact inverse of sparse matrices.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174222 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[632] of [3067808] --> [Paul S. Wang]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Paul S. Wang], size: [8], build time: [19.022046 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [19.022055 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[633] of [3067808] --> [Tadatoshi Minamikawa]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.178358 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[634] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.029301 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.029309 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[635] of [3067808] --> [A Critical-Pair/Completion Based Integration Algorithm.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.184497 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[636] of [3067808] --> [A. C. Norman]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [A. C. Norman], size: [3], build time: [5.849891 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.849900 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[637] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.159401 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.159411 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[638] of [3067808] --> [Parametrizations for Families of ECM-Friendly Curves.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.172343 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[639] of [3067808] --> [Alexandre G&eacute;lin]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190354 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[640] of [3067808] --> [Thorsten Kleinjung]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Thorsten Kleinjung], size: [2], build time: [3.388056 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.388064 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[641] of [3067808] --> [Arjen K. Lenstra]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [9]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Arjen K. Lenstra], size: [9], build time: [21.830341 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [21.830350 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[642] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.322442 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.322451 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[643] of [3067808] --> [Computing irredundant irreducible decompositions of large scale monomial ideals.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.173966 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[644] of [3067808] --> [R. Alexander Milowski]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.184511 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[645] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.443663 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.443673 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[646] of [3067808] --> [On order-invariance of a binomial over a nullifying cell.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.182206 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[647] of [3067808] --> [Scott McCallum]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Scott McCallum], size: [2], build time: [3.189882 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.189904 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[648] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.404183 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.404192 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[649] of [3067808] --> [Solution of algebraic riccati equations using the sum of roots.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.190048 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[650] of [3067808] --> [Masaaki Kanno]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Masaaki Kanno], size: [2], build time: [3.147566 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.147573 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[651] of [3067808] --> [Kazuhiro Yokoyama]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Kazuhiro Yokoyama], size: [6], build time: [13.885868 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [13.885876 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[652] of [3067808] --> [Hirokazu Anai]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Hirokazu Anai], size: [8], build time: [19.055511 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [19.055519 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[653] of [3067808] --> [Shinji Hara]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [7]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Shinji Hara], size: [7], build time: [16.739864 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [16.739873 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[654] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.323841 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.323851 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[655] of [3067808] --> [Recursive Integration of Piecewise-Continuous Functions.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171436 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[656] of [3067808] --> [David J. Jeffrey]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [David J. Jeffrey], size: [5], build time: [10.877049 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.877058 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[657] of [3067808] --> [Albert D. Rich]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [2]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Albert D. Rich], size: [2], build time: [3.163435 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [3.163455 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[658] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.364512 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.364528 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[659] of [3067808] --> [Constructing endomorphism rings via duals.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179193 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[660] of [3067808] --> [Edward L. Green]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194633 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[661] of [3067808] --> [Lenwood S. Heath]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Lenwood S. Heath], size: [6], build time: [14.130171 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [14.130181 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[662] of [3067808] --> [Craig A. Struble]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.170226 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[663] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.379393 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.379402 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[664] of [3067808] --> [A Case Study on the Parametric Occurrence of Multiple Steady States.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.171051 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[665] of [3067808] --> [Russell J. Bradford]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Russell J. Bradford], size: [5], build time: [10.992248 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [10.992256 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[666] of [3067808] --> [James H. Davenport]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [James H. Davenport], size: [8], build time: [19.030323 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [19.030332 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[667] of [3067808] --> [Matthew England]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Matthew England], size: [5], build time: [11.112363 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.112373 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[668] of [3067808] --> [Hassan Errami]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.179474 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[669] of [3067808] --> [Vladimir P. Gerdt]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [8]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Vladimir P. Gerdt], size: [8], build time: [18.743748 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [18.743756 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[670] of [3067808] --> [Dima Grigoriev]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [3]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Dima Grigoriev], size: [3], build time: [5.977120 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [5.977128 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[671] of [3067808] --> [Charles Hoyt]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.189629 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[672] of [3067808] --> [Marek Kosta]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [4]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Marek Kosta], size: [4], build time: [8.654015 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [8.654023 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[673] of [3067808] --> [Ovidiu Radulescu]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.194003 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[674] of [3067808] --> [Thomas Sturm 0001]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [5]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Thomas Sturm 0001], size: [5], build time: [11.193639 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [11.193647 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[675] of [3067808] --> [Andreas Weber 0004]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [6]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [Andreas Weber 0004], size: [6], build time: [14.045209 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [14.045218 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[676] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.198661 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.198670 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[677] of [3067808] --> [Generalized laplace transformations and integration of hyperbolic systems of linear partial differential equations.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.167239 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[678] of [3067808] --> [Sergey P. Tsarev]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.174430 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[679] of [3067808] --> [ISSAC]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [158]
+
+[core.cpp] [0385] [build_tvp] 
+----> key: [ISSAC], size: [158], build time: [400.423184 s]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [400.423193 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[680] of [3067808] --> [Algebraic Techniques in Geometry: The 10th Anniversary.]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [1]
+
+[core.cpp] [0432] [build_index] 
+----> build index time: [0.169366 s]
+
+[core.cpp] [0429] [build_index] 
+----> 
+[681] of [3067808] --> [Micha Sharir]
+
+[core.cpp] [0350] [build_tvp] 
+----> keywords size: [36]
+
