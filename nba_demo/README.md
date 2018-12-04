@@ -19,6 +19,11 @@
 
 5. core_test.cpp: the demo for nba-dataset
 
+6. \*.log files: you can found some intermidiate output/debug info from them.
+
+7. **other .cpp files**: please ingnore them, just for some test.
+
+
 #### how to install
 ```bash
 $make
