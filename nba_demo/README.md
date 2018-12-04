@@ -1,5 +1,20 @@
 # project for database
 
+#### Bing Jiao     bj18c@my.fsu.edu
+
+#### core code
+
+
+1. ./buildtvp.cpp: the main code for building index scheme:
+  	- flow: tree --> CT --> ECT --> TVP
+  	- TVP (Tree Voronoi Partition) is the class for building the fianl index for a tree-based dataset
+  	- ECT (Extended Compact Tree) is the class for building the extended compact tree for a tree-basted dataset
+  	- CT (Compact Tree) is the class for building the compact tree for a tree-basted dataset
+
+2. ./core.cpp: the main code for building a index for nba-datset
+
+
+
 #### how to install
 ```bash
 $make
